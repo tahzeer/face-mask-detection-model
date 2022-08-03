@@ -1,1 +1,1 @@
-# face-mask-detection-model
+# Face Mask Detection Model
