@@ -1,5 +1,5 @@
 # Face Mask Detection Model
-Image Classification Model written in python which detects a face in an image using casscading models from OpenCV, perform processing using Keras library & then detect whether the person has a facemask on. The model is built on the TensorFlow library in Google Colab Notebooks.
+Image Classification Model written in python which detects a face in an image using casscading models from OpenCV, performs processing using Keras & then detect whether the person has a facemask on. The model is built on the TensorFlow library in Google Colab Notebooks.
 
 ## Output
 The classification result with its probability is printed on the original image using OpenCV.
