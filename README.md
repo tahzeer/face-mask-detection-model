@@ -10,4 +10,4 @@ The classification result with its probability is printed on the original image 
 [Google Drive Link](https://drive.google.com/drive/folders/1tvLtA8UvfvQO6dEZBfOJi0aoIVOIzHAT?usp=sharing)
 
 ## Notebook
-[Google Colaboratory Link](t.ly/face-mask)
+[Google Colaboratory Link](https://colab.research.google.com/drive/11SSpm4gm6JFusDr2u3PvPB2huYjOFyUJ?usp=sharing)
