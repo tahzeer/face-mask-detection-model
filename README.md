@@ -6,5 +6,8 @@ The classification result with its probability is printed on the original image 
 
 ![Screenshot 2022-08-03 032251](https://user-images.githubusercontent.com/63439640/182533201-555696eb-fd7f-49a2-bc1b-ace9d4fb9f9a.png)
 
+## Dataset
+[Google Drive Link](https://drive.google.com/drive/folders/1tvLtA8UvfvQO6dEZBfOJi0aoIVOIzHAT?usp=sharing)
+
 ## Notebook
 [Google Colaboratory Link](t.ly/face-mask)
